@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 12 18:29:55 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0186-d7f1-d258-00000cc52258 
+on database directory /Volumes/D/Intellij projects/email_final/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@632cf7d3 
+Loaded from file:/Users/pratikdomadiya/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_351-b10
+user.dir=/Volumes/D/Intellij projects/email_final
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.2.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
